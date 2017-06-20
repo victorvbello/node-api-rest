@@ -1,5 +1,4 @@
-# node-api-rest
-API REST Nodejs
+# API REST Nodejs
 
 # Dependencies
     "bcrypt-nodejs": "0.0.3"
